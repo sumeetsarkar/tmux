@@ -1,0 +1,2 @@
+tmux minimal config
+
